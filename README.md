@@ -1,3 +1,3 @@
 # demo HACTOBERFEST
 
-I am new to GitHUb
+I am new to GitHub
